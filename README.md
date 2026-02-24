@@ -245,5 +245,4 @@ All actions were performed in a legal lab environment on TryHackMe.
 ---
 
 ## 👨‍💻 Author
-
-[Your Name]
+Jagadeeswar.M
