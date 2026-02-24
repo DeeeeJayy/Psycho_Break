@@ -1,0 +1,22 @@
+Sebastian sees a path through the darkness which leads to a room => /sadistRoom
+
+active : http://10.49.186.3/sadistRoom/
+active : http://10.49.186.3/lockerRoom/
+
+Key to locker Room => 532219a04ab7a02b56faafbec1a4c1ea
+
+Key to the Maps = Grant_me_access_to_the_map_please
+
+Here is your key : 48ee41458eb0b43bf82b986cecf3af01
+
+
+
+pass obtained from program file:KIDMANSPASSWORDISSOSTRANGE ->  ssh pass
+
+decryption of .readme file :
+From Kidman:
+
+The thing I am about to tell so is top secret. No one doesn't know about this. It's the Ruvik's eye. No one can hide away from it. But I can tell you one thing search for the string *the_eye_of_ruvik* . You got to help Sebastian defeat Ruvik ...
+
+
+python -c 'import pty; pty.spawn("/bin/sh")'
